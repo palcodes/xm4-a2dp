@@ -35,5 +35,5 @@ This script:
 - Paired Sony XM4 headphones
 
 ## Tested On
-- Linux with PipeWire
+- Linux `[Ubuntu, PopOS, Fedora 42]` with PipeWire
 - Sony WH-1000XM4
